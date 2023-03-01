@@ -1,0 +1,5 @@
+Assets descargados y sus links de descarga
+25 Rpg Game Tracks - https://assetstore.unity.com/packages/audio/music/25-fantasy-rpg-game-tracks-music-pack-240154
+Cainos Pixel Art Top Down - Basic https://assetstore.unity.com/packages/2d/environments/pixel-art-top-down-basic-187605
+NavMeshPlus-master - https://assetstore.unity.com/packages/audio/music/25-fantasy-rpg-game-tracks-music-pack-240154
+TextMesh Pro
